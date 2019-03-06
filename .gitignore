@@ -2,3 +2,6 @@
 train.db
 Untitled.ipynb
 train_no_dup.db
+tag_counts_dict_dtm.csv
+Processed.db-journal
+Processed.db
