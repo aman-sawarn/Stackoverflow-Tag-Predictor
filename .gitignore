@@ -5,3 +5,6 @@ train_no_dup.db
 tag_counts_dict_dtm.csv
 Processed.db-journal
 Processed.db
+Titlemoreweight.db
+Titlemoreweight.db-journal
+lr_with_equal_weight.pkl
