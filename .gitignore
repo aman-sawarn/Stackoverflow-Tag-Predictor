@@ -8,3 +8,4 @@ Processed.db
 Titlemoreweight.db
 Titlemoreweight.db-journal
 lr_with_equal_weight.pkl
+*.db
